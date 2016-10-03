@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "396562543690",
+    "firebase_url": "https://fcm-chat-app.firebaseio.com",
+    "project_id": "fcm-chat-app",
+    "storage_bucket": "fcm-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396562543690:android:c94068a9a48076ea",
+        "android_client_info": {
+          "package_name": "com.smsleopard.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396562543690-lm0es3m1ulpscb0t1nvs7okjfhrc3ct8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwYMNBHFdAaI0E4TgdUsoPCVUv2FpjQVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
