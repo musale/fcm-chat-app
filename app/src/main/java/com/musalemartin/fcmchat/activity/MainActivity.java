@@ -1,7 +1,9 @@
-package com.musalemartin.fcmchat;
+package com.musalemartin.fcmchat.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.musalemartin.fcmchat.R;
 
 public class MainActivity extends AppCompatActivity {
 
