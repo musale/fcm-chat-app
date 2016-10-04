@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:396562543690:android:c94068a9a48076ea",
+        "mobilesdk_app_id": "1:396562543690:android:8c5964e71320a353",
         "android_client_info": {
-          "package_name": "com.smsleopard.app"
+          "package_name": "com.musalemartin.fcmchat"
         }
       },
       "oauth_client": [
